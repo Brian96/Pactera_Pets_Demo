@@ -1,2 +1,1 @@
-# Pactera_Pets_Demo
-a demo for pactera
+# Pets_Demo
